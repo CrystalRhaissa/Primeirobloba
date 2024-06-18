@@ -2,8 +2,8 @@ body{
     background: linear-gradient(to right, #8c23ee, #23eee4, #8c23ee);
 }
 h1{
-    color: #000000;
+    color: #ffffff;
 }
 p{
-    background: linear-gradient(to right, #ffffff, #000000, #ffffff);
+    color: #ffffff, #000000, #ffffff;
 }
