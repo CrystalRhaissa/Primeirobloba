@@ -1,9 +1,13 @@
 body{
-    background: linear-gradient(to right, #fa44dc, #ae00ff, #2f00ff);
+    background: linear-gradient(to right, #000000, #ae00ff, #bb74eb);
 }
 h1{
     color: #ffffff;
 }
 p{
     color: #ffffff;
+}
+
+.cabecalho{
+    background-color: black;
 }
