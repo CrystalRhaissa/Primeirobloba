@@ -7,17 +7,17 @@ body{
 }
 h1{
     color: #ffffff;
+    font-size: 30px;
+    text-align: center;
 }
 p{
     color: #ffffff;
     font-size: 30px;
+    text-align: center;
 }
 
 .cabecalho{
     background-color: black;
     padding: 30px;
-    text-align: center;
-}
-.h1{
     text-align: center;
 }
