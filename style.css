@@ -3,7 +3,7 @@
     padding: 0%;
 }
 body{
-    background: linear-gradient(to right, #000000, #ae00ff);
+    background: linear-gradient(to right, #000000, hsl(281, 100%, 43%));
 }
 h1{
     color: #ffffff;
