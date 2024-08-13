@@ -17,7 +17,7 @@ p{
 }
 
 .cabecalho{
-    background-color: black;
+    background-color: hsl(281, 100%, 43%), black;
     padding: 30px;
     text-align: center;
     display: flex;
