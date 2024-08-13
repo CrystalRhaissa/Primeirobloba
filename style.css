@@ -27,3 +27,6 @@ p{
     padding: 20px;
     right: 0%;
 }
+body{
+    background-image: -moz-linear-gradient(_.jpeg);
+}
