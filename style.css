@@ -5,6 +5,11 @@
 body{
     background: linear-gradient(to right, #000000, hsl(281, 100%, 43%));
 }
+a{
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+}
 h1{
     color: #ffffff;
     font-size: 30px;
